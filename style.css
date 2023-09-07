@@ -1,0 +1,26 @@
+*{
+    margin: 10px;
+    font-family: arial;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+  }
+#navbar{
+    margin-left: 110px;
+}  
+h1{
+    color: #9288F8;
+    padding-left: 20px;
+}
+h3{
+    color: #862B0D;
+    text-decoration: underline;
+}
+h5{
+    display: flex;
+}
+.ss{
+    border: none;
+}
